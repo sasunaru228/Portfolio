@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/Portfolio/static/css/main.ad61ac20.css",
+    "main.js": "/github.io/Portfolio/static/js/main.8d6c194f.js",
+    "static/js/453.9c44b721.chunk.js": "/github.io/Portfolio/static/js/453.9c44b721.chunk.js",
+    "static/media/project1.svg": "/github.io/Portfolio/static/media/project1.3b3b1ac97a35982468aa17113a00fc96.svg",
+    "static/media/git.svg": "/github.io/Portfolio/static/media/git.0895af1d23d84e4c2bd24d3d8cc68b27.svg",
+    "static/media/inst.svg": "/github.io/Portfolio/static/media/inst.4ef6d97a2cec7ba920c22968bb062b59.svg",
+    "static/media/link.svg": "/github.io/Portfolio/static/media/link.13ff79052566e63c1ad32e5dac8b67c2.svg",
+    "static/media/telega.svg": "/github.io/Portfolio/static/media/telega.baa49bde4ada466af15b48ff6613ab3e.svg",
+    "index.html": "/github.io/Portfolio/index.html",
+    "main.ad61ac20.css.map": "/github.io/Portfolio/static/css/main.ad61ac20.css.map",
+    "main.8d6c194f.js.map": "/github.io/Portfolio/static/js/main.8d6c194f.js.map",
+    "453.9c44b721.chunk.js.map": "/github.io/Portfolio/static/js/453.9c44b721.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad61ac20.css",
+    "static/js/main.8d6c194f.js"
+  ]
+}
