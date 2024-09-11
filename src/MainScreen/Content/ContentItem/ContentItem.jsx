@@ -8,7 +8,7 @@ export default function ContentItem({name, description, number, image, linkOnGit
             style={{background: bgLinear}}
         >
             <span className={classes.main_content_item_number}>{number}</span>
-            <a href={linkOnGit} className={classes.main_content_item_link} target='_blank'>
+            <a href={linkOnGit} className={classes.main_content_item_link} target='_blank' rel='noreferrer'>
                 <img src={image} alt="project"/>
             </a>
             <div className={classes.main_content_item_description}>

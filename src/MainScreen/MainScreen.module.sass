@@ -118,4 +118,44 @@
               fill: #FFFFFF
           span
             margin-left: 10px
-
+@media screen and (max-width: 1000px)
+  .main
+    &_aside
+      position: static
+      width: 150%
+      max-width: 100%
+      height: auto
+      top: auto
+      left: auto
+      &_texted
+        width: 100%
+    &_content
+      margin-left: 0
+      &_item
+        min-width: auto
+        &_link
+          img
+            height: 286px
+            width: 420px
+@media screen and (max-width: 500px)
+  .main
+    &_aside
+      &_texted
+        padding: 30px 20px
+        &_textMe
+          font-size:  15px
+    &_content
+      margin-left: 0
+      &_item
+        padding: 30px 20px
+        height: 50%
+        min-height: 400px
+        min-width: auto
+        &_link
+          img
+            height: 168px
+            width: 260px
+        &_description
+          &_git
+            span
+              display: none
