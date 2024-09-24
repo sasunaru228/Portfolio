@@ -18,24 +18,25 @@ export default function AsideComponent() {
                     </p>
                 </div>
                 <div className={classes.main_aside_texted_socials}>
-                    <a href="index.html">
+                    <a href="https://t.me/SasuNaru228">
                         <Telega/>
                     </a>
-                    <a href="index.html">
+                    <a href="https://github.com/sasunaru228">
                         <Git/>
 
                     </a>
-                    <a href="index.html">
+                    <a href="https://www.instagram.com/_dimasic_">
                         <Inst/>
                     </a>
                     <a href="index.html">
                         <Linked/>
                     </a>
                 </div>
-                <button className={classes.main_aside_texted_textMe}>
-                    Text me in Telegram
-                </button>
-
+                <a href="https://t.me/SasuNaru228">
+                    <button className={classes.main_aside_texted_textMe}>
+                        Text me in Telegram
+                    </button>
+                </a>
             </div>
 
         </div>
