@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.5fbeaa7b.css",
-    "main.js": "./static/js/main.18dbc3d8.js",
+    "main.css": "./static/css/main.0699c02e.css",
+    "main.js": "./static/js/main.40547a6b.js",
     "static/js/453.9c44b721.chunk.js": "./static/js/453.9c44b721.chunk.js",
+    "static/media/project2.svg": "./static/media/project2.3cd1e1359316a17fd192830348a40d54.svg",
     "static/media/project1.svg": "./static/media/project1.3b3b1ac97a35982468aa17113a00fc96.svg",
+    "static/media/projectSoon.svg": "./static/media/projectSoon.9ebb96791f870468a82fd0258c5ea890.svg",
     "static/media/git.svg": "./static/media/git.0895af1d23d84e4c2bd24d3d8cc68b27.svg",
     "static/media/inst.svg": "./static/media/inst.4ef6d97a2cec7ba920c22968bb062b59.svg",
     "static/media/link.svg": "./static/media/link.13ff79052566e63c1ad32e5dac8b67c2.svg",
     "static/media/telega.svg": "./static/media/telega.baa49bde4ada466af15b48ff6613ab3e.svg",
     "index.html": "./index.html",
-    "main.5fbeaa7b.css.map": "./static/css/main.5fbeaa7b.css.map",
-    "main.18dbc3d8.js.map": "./static/js/main.18dbc3d8.js.map",
+    "main.0699c02e.css.map": "./static/css/main.0699c02e.css.map",
+    "main.40547a6b.js.map": "./static/js/main.40547a6b.js.map",
     "453.9c44b721.chunk.js.map": "./static/js/453.9c44b721.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fbeaa7b.css",
-    "static/js/main.18dbc3d8.js"
+    "static/css/main.0699c02e.css",
+    "static/js/main.40547a6b.js"
   ]
 }
