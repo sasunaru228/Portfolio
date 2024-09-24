@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.0699c02e.css",
-    "main.js": "./static/js/main.40547a6b.js",
+    "main.css": "./static/css/main.7e1e8778.css",
+    "main.js": "./static/js/main.bf9f5c25.js",
     "static/js/453.9c44b721.chunk.js": "./static/js/453.9c44b721.chunk.js",
-    "static/media/project2.svg": "./static/media/project2.3cd1e1359316a17fd192830348a40d54.svg",
-    "static/media/project1.svg": "./static/media/project1.3b3b1ac97a35982468aa17113a00fc96.svg",
+    "static/media/project2TEST.png": "./static/media/project2TEST.584ed64f478c9bce99fb.png",
+    "static/media/project1.png": "./static/media/project1.97c4bed1f0efff9de65b.png",
     "static/media/projectSoon.svg": "./static/media/projectSoon.9ebb96791f870468a82fd0258c5ea890.svg",
     "static/media/git.svg": "./static/media/git.0895af1d23d84e4c2bd24d3d8cc68b27.svg",
     "static/media/inst.svg": "./static/media/inst.4ef6d97a2cec7ba920c22968bb062b59.svg",
     "static/media/link.svg": "./static/media/link.13ff79052566e63c1ad32e5dac8b67c2.svg",
     "static/media/telega.svg": "./static/media/telega.baa49bde4ada466af15b48ff6613ab3e.svg",
     "index.html": "./index.html",
-    "main.0699c02e.css.map": "./static/css/main.0699c02e.css.map",
-    "main.40547a6b.js.map": "./static/js/main.40547a6b.js.map",
+    "main.7e1e8778.css.map": "./static/css/main.7e1e8778.css.map",
+    "main.bf9f5c25.js.map": "./static/js/main.bf9f5c25.js.map",
     "453.9c44b721.chunk.js.map": "./static/js/453.9c44b721.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0699c02e.css",
-    "static/js/main.40547a6b.js"
+    "static/css/main.7e1e8778.css",
+    "static/js/main.bf9f5c25.js"
   ]
 }
