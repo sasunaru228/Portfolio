@@ -18,7 +18,7 @@ export default function AsideComponent() {
                     </p>
                 </div>
                 <div className={classes.main_aside_texted_socials}>
-                    <a href="https://t.me/SasuNaru228">
+                    <a href="https://t.me/BoruSara78">
                         <Telega/>
                     </a>
                     <a href="https://github.com/sasunaru228">
@@ -32,7 +32,7 @@ export default function AsideComponent() {
                         <Linked/>
                     </a>
                 </div>
-                <a href="https://t.me/SasuNaru228">
+                <a href="https://t.me/BoruSara78">
                     <button className={classes.main_aside_texted_textMe}>
                         Text me in Telegram
                     </button>
