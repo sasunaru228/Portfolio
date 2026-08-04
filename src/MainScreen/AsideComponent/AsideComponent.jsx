@@ -16,6 +16,9 @@ export default function AsideComponent() {
                     <p>
                         Hi. I’m Dmitrii Orlov, frontend coder based in Saint Petersburg, Russia. Check out my works and social accounts.
                     </p>
+                    <p>
+                      Привет! Я Дмитрий Орлов — frontend-разработчик из Санкт-Петербурга, Россия. Здесь вы можете посмотреть мои проекты и найти ссылки на мои социальные сети.
+                    </p>
                 </div>
                 <div className={classes.main_aside_texted_socials}>
                     <a href="https://t.me/BoruSara78">
